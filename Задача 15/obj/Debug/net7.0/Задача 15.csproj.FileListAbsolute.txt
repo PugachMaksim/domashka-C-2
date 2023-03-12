@@ -1,0 +1,15 @@
+/Users/valentinanemkova/Desktop/IT/C#/Задача 15/obj/Debug/net7.0/Задача 15.csproj.AssemblyReference.cache
+/Users/valentinanemkova/Desktop/IT/C#/Задача 15/obj/Debug/net7.0/Задача 15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valentinanemkova/Desktop/IT/C#/Задача 15/obj/Debug/net7.0/Задача 15.AssemblyInfoInputs.cache
+/Users/valentinanemkova/Desktop/IT/C#/Задача 15/obj/Debug/net7.0/Задача 15.AssemblyInfo.cs
+/Users/valentinanemkova/Desktop/IT/C#/Задача 15/obj/Debug/net7.0/Задача 15.csproj.CoreCompileInputs.cache
+/Users/valentinanemkova/Desktop/IT/C#/Задача 15/bin/Debug/net7.0/Задача 15
+/Users/valentinanemkova/Desktop/IT/C#/Задача 15/bin/Debug/net7.0/Задача 15.deps.json
+/Users/valentinanemkova/Desktop/IT/C#/Задача 15/bin/Debug/net7.0/Задача 15.runtimeconfig.json
+/Users/valentinanemkova/Desktop/IT/C#/Задача 15/bin/Debug/net7.0/Задача 15.dll
+/Users/valentinanemkova/Desktop/IT/C#/Задача 15/bin/Debug/net7.0/Задача 15.pdb
+/Users/valentinanemkova/Desktop/IT/C#/Задача 15/obj/Debug/net7.0/Задача 15.dll
+/Users/valentinanemkova/Desktop/IT/C#/Задача 15/obj/Debug/net7.0/refint/Задача 15.dll
+/Users/valentinanemkova/Desktop/IT/C#/Задача 15/obj/Debug/net7.0/Задача 15.pdb
+/Users/valentinanemkova/Desktop/IT/C#/Задача 15/obj/Debug/net7.0/Задача 15.genruntimeconfig.cache
+/Users/valentinanemkova/Desktop/IT/C#/Задача 15/obj/Debug/net7.0/ref/Задача 15.dll

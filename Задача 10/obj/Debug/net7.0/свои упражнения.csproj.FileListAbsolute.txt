@@ -1,0 +1,15 @@
+/Users/valentinanemkova/Desktop/IT/C#/свои упражнения/bin/Debug/net7.0/свои упражнения
+/Users/valentinanemkova/Desktop/IT/C#/свои упражнения/bin/Debug/net7.0/свои упражнения.deps.json
+/Users/valentinanemkova/Desktop/IT/C#/свои упражнения/bin/Debug/net7.0/свои упражнения.runtimeconfig.json
+/Users/valentinanemkova/Desktop/IT/C#/свои упражнения/bin/Debug/net7.0/свои упражнения.dll
+/Users/valentinanemkova/Desktop/IT/C#/свои упражнения/bin/Debug/net7.0/свои упражнения.pdb
+/Users/valentinanemkova/Desktop/IT/C#/свои упражнения/obj/Debug/net7.0/свои упражнения.csproj.AssemblyReference.cache
+/Users/valentinanemkova/Desktop/IT/C#/свои упражнения/obj/Debug/net7.0/свои упражнения.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valentinanemkova/Desktop/IT/C#/свои упражнения/obj/Debug/net7.0/свои упражнения.AssemblyInfoInputs.cache
+/Users/valentinanemkova/Desktop/IT/C#/свои упражнения/obj/Debug/net7.0/свои упражнения.AssemblyInfo.cs
+/Users/valentinanemkova/Desktop/IT/C#/свои упражнения/obj/Debug/net7.0/свои упражнения.csproj.CoreCompileInputs.cache
+/Users/valentinanemkova/Desktop/IT/C#/свои упражнения/obj/Debug/net7.0/свои упражнения.dll
+/Users/valentinanemkova/Desktop/IT/C#/свои упражнения/obj/Debug/net7.0/refint/свои упражнения.dll
+/Users/valentinanemkova/Desktop/IT/C#/свои упражнения/obj/Debug/net7.0/свои упражнения.pdb
+/Users/valentinanemkova/Desktop/IT/C#/свои упражнения/obj/Debug/net7.0/свои упражнения.genruntimeconfig.cache
+/Users/valentinanemkova/Desktop/IT/C#/свои упражнения/obj/Debug/net7.0/ref/свои упражнения.dll
