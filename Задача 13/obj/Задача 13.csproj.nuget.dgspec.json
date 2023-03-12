@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/valentinanemkova/Desktop/IT/C#/Задача 13/Задача 13.csproj": {}
+    "/Users/valentinanemkova/Desktop/IT/C#/domashka/Задача 13/Задача 13.csproj": {}
   },
   "projects": {
-    "/Users/valentinanemkova/Desktop/IT/C#/Задача 13/Задача 13.csproj": {
+    "/Users/valentinanemkova/Desktop/IT/C#/domashka/Задача 13/Задача 13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/valentinanemkova/Desktop/IT/C#/Задача 13/Задача 13.csproj",
+        "projectUniqueName": "/Users/valentinanemkova/Desktop/IT/C#/domashka/Задача 13/Задача 13.csproj",
         "projectName": "Задача 13",
-        "projectPath": "/Users/valentinanemkova/Desktop/IT/C#/Задача 13/Задача 13.csproj",
+        "projectPath": "/Users/valentinanemkova/Desktop/IT/C#/domashka/Задача 13/Задача 13.csproj",
         "packagesPath": "/Users/valentinanemkova/.nuget/packages/",
-        "outputPath": "/Users/valentinanemkova/Desktop/IT/C#/Задача 13/obj/",
+        "outputPath": "/Users/valentinanemkova/Desktop/IT/C#/domashka/Задача 13/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/valentinanemkova/.nuget/NuGet/NuGet.Config"

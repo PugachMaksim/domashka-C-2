@@ -10,7 +10,7 @@ Console.Write("Введите число: ");
 int.TryParse(Console.ReadLine(), out a);
 if (a>99)
 {
-    while (a > 1000)
+    while (a > 999)
         {
             a = a/10;
         }
